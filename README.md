@@ -65,7 +65,7 @@ Installation
 
 Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/devops-ai-agent.git
+git clone https://github.com/Ajinkyapatil1234/devops-ai-agent.git
 cd devops-ai-agent
 
 Create Virtual Environment
